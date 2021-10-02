@@ -6,6 +6,5 @@
 ## ディレクトリの作り方
 「Code-AddFile-CreateNewFile」を選びます。
 ファイル名を”ディレクトリ名/README.md”をします。
-
-#QGIS
+# QGIS
 無料で使える本格的GISソフトウェアに関する情報です。
