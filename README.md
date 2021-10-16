@@ -14,3 +14,7 @@
 ## GTFS-GO
 QGIS上でGTFSを簡単に扱うためのソフトウェアGTFS-GOに関する情報です。
 
+## workinthemorning 
+朝もく会の開催要領をまとめたものです。
+
+
