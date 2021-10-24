@@ -17,3 +17,5 @@
 https://wheelmap.org/nodes/6340923222
 
 # 実際に地図を作ってみよう
+こちらに参考の資料を作りました。
+https://docs.google.com/presentation/d/162mCI69ZwARdTZNG5PoMHp7jdChWpvNn/edit?usp=sharing&ouid=101122861414063048250&rtpof=true&sd=true
