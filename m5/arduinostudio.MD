@@ -41,6 +41,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 - Arduino IDEのライブラリマネージャを開き「ambient」で検索します。「Ambient ESP32 ESP8266 lib」の最新をインストールします。
 
 ## テスト 距離測定のツール(別途インストールしたもの)にAmbientの設定を行う。
+### サンプルソースは、tofhat.inoです。
 - #include "Ambient.h"を追加する。
 - 以下の行を, 適切な値に設定する。<BR>
 const char * ssid = "(会場の無線LAN)";<BR>
@@ -48,3 +49,34 @@ const char * password = "(会場の無線LANパスワード)
 ))";<BR>
 const int channelId = (AmbientのチャンネルID);<BR>
 const char * writeKey = "(Ambientのライトキー))";<BR>
+
+### 説明
+他のセンサーを使う場合、以下の部分をコピーしてから整えます。
+- //  無線LANの設定　～ // (ここまで) <BR>
+無線LANの設定に必要な導入部分です。<BR>
+関数とは、void setup() { や void loop() {　で始まる部分を指します。
+- //  IoT表示サービスのAmbient用の設定 ～ // (ここまで) <BR>
+前項と同様です。
+- //  WiFiの初期化<BR>
+この部分は、void setup () { } の中に記載します。
+- //  IoT表示サービスの設定<BR>
+この部分は、void setup () { } の中に記載します。
+- //  IoT表示サービスにデータを送信する<BR>
+この部分は、void loop () に記載します。<BR>
+void loop()は、繰り返し、何度も呼びされれます。<BR>
+  ambient.set(1, distance);<BR>
+  ambient.send();<BR>
+
+  distanceは、センサーから取得した値になります。<BR>
+  サンプルの場合、loop関数の先頭で取得しています。<BR>
+  distance = sensor.readRangeContinuousMillimeters();
+  また、ambient(1, distance)のdistanceは、ambientのデータ番号(d1～d8)の値になります。<BR>
+
+  
+
+
+
+
+
+
+
