@@ -39,6 +39,3 @@ https://evolinq-my.sharepoint.com/:x:/g/personal/tominari_evolinq_link/EfNa8kTL4
 - PowerBI Desktopで作成したものをWEB上に公開する。
 ## 公開URL
 - https://app.powerbi.com/view?r=eyJrIjoiY2M3MDdkNTAtOWFhNi00ZmU5LWE2NGEtM2MyNDNlOWM1ZjM2IiwidCI6IjhmMDk1ODJlLWYxYTMtNGU3Mi04NjA1LWVlMjc0MjFkMGVjMyJ9&pageName=ReportSection
-
-## PowerBIソース
-- https://evolinq-my.sharepoint.com/:u:/g/personal/tominari_evolinq_link/EWDmig6r9VNOsCXy39X4-MgB8TzpvnLB7MrpZr3ymbRTAA?e=ioIvzr
