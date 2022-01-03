@@ -2,9 +2,9 @@
 ## 使用するデータ
 - 富山市のオープンデータサイトから取得する。<BR>
 https://opdt.city.toyama.lg.jp/dataset/seikatsu-eisei04
-- 公衆浴場のＵRLデータ(独自作成)<BR>
-https://evolinq-my.sharepoint.com/:x:/g/personal/tominari_evolinq_link/ERbdXwLPuhdIq3iwj4KGZbUBSGuIXIIiGvUSUcuSwZseyA?e=aKIgvw
 
+データは、dataフォルダに格納しています。
+  
 | № | 項目名 | 内容 |
 |:---|:---:|---:|
 |1 |施設名 | (オープンデータと同じ値)|
