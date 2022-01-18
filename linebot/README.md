@@ -37,10 +37,10 @@ Mac盤 https://aka.ms/bf-composer-download-mac <br>
 - 「完了しました」と表示されれば、インストール完了です。
 ![alt](img/botcomp4.png)
 
-### node.jsのインストールが必要です(R3/1/17 追加)
+### node.jsのインストールが必要です(R4/1/18 追加)
 Node.js : https://nodejs.org/en/download/
 
-### .NET Core SDKのインストールが必要です(R3/1/17 追加)
+### .NET Core SDKのインストールが必要です(R4/1/18 追加)
 .NET Core SDK : https://dotnet.microsoft.com/en-us/download/dotnet/3.1
 
 
