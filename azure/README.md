@@ -1,4 +1,5 @@
 # Azureのアカウント登録
+https://azure.microsoft.com/ja-jp/
 - 「無料ではじめる」ボタンを押す。
 ![alt](img/azure1.png)
 
