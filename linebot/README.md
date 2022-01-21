@@ -2,7 +2,7 @@
 ## 必要なこと
 ### LINEの開発用アカウント作成
 - 以下のサイトにアクセスします。<br>
-https://account.line.biz/login
+https://developers.line.biz/ja/
 ![alt](img/line1.png)
 - 既にLINEの開発用アカウントをお持ちの方は、ログインをしてください。
 - 以下は、LINE開発用アカウントをお持ちでない方の手順となります。
