@@ -15,6 +15,11 @@ https://us06web.zoom.us/j/85170810866?pwd=RmJNV3J1Rkw3S0ViREZQM2dDbjdCUT09
 - 以降、ご参加の方から質問をうけながら、進めていきます。
 - 富山市のセンサーネットワークの使い方を知りたい方への説明を可能です。
 
+## お願い！
+以下のリンクをクリックして、チャットツールに参加してください。
+https://join.slack.com/t/codefortoyama/shared_invite/zt-dnexhi6s-yavCx3dO0YlsBi_BjfechQ
+
+
 ## スマシテラボハッカソン 初日
 1. 日時 1/22(土) 13:00-18:00
 1. 場所 <br>
