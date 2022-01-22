@@ -29,7 +29,7 @@ https://join.slack.com/t/codefortoyama/shared_invite/zt-dnexhi6s-yavCx3dO0YlsBi_
 最優秀賞のみ<br>
 〇 氷見和牛肩ロースすきしゃぶ用（450g）<br>
 優勝チームの皆さまに、後日、クール便で配送いたします。本来なら、皆さまと鍋をつつきたいところですが、時節柄、大切な方とお楽しみください。<br>
-![alt](img\meatup.jpg)
+![alt](img/meatup.jpg)
 
 1. 参加賞(スケッチラボでのご参加の方に限ります)<br>
 〇 協力会社さまからのステキなノベリティがもらえます！
