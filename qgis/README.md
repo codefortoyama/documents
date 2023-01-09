@@ -6,3 +6,5 @@ https://qgis.org/ja/site/
 
 ## QGISについて解説されているサイト
 https://note.com/kinari_iro/n/n0be263aa0fdc#un1xg
+
+### インストール手順
